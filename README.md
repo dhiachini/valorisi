@@ -1,4 +1,4 @@
-<!-- ## [Material Kit - React](https://valorisi.devias.io/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=%F0%9F%9A%A8Devias%20Freebie%20Alert%20-%20An%20awesome%20ready-to-use%20register%20page%20made%20with%20%23material%20%23react%0D%0Ahttps%3A%2F%2Fdevias.io%20%23createreactapp%20%23devias%20%23material%20%23freebie%20%40devias-io)
+## [Material Kit - React](https://dhiachini/valorisi/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=%F0%9F%9A%A8Devias%20Freebie%20Alert%20-%20An%20awesome%20ready-to-use%20register%20page%20made%20with%20%23material%20%23react%0D%0Ahttps%3A%2F%2Fdevias.io%20%23createreactapp%20%23devias%20%23material%20%23freebie%20%40devias-io)
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -11,12 +11,12 @@
 
 ## Demo
 
-- [Dashboard Page](https://valorisi.github.io)
+- [Dashboard Page](https://dhiachini/valorisi)
 - [Companies Page](https://material-kit-react.devias.io/companies)
 - [Customers Page](https://material-kit-react.devias.io/customers)
 - [Account Page](https://material-kit-react.devias.io/account)
 - [Settings Page](https://material-kit-react.devias.io/settings)
-- [Login Page](https://material-kit-react.devias.io/auth/login)
+- [Login Page](https://dhiachini/auth/login)
 - [Register Page](https://material-kit-react.devias.io/auth/register)
 
 ## Free Figma Community File
@@ -106,4 +106,4 @@ material-kit-react
 
 ## Contact Us
 
-- Email Us: support@deviasio.zendesk.com -->
+- Email Us: support@deviasio.zendesk.com

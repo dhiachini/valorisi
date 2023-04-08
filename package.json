@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "author": "Devias",
   "licence": "MIT",
-  "homepage": "https://valorisi",
+  "homepage": "https://login",
   "private": false,
   "scripts": {
     "dev": "next",

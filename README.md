@@ -11,12 +11,12 @@
 
 ## Demo
 
-- [Dashboard Page](https://dhiachini/valorisi)
+- [Dashboard Page](https://dhiachini.github.io/valorisi/)
 - [Companies Page](https://material-kit-react.devias.io/companies)
 - [Customers Page](https://material-kit-react.devias.io/customers)
 - [Account Page](https://material-kit-react.devias.io/account)
 - [Settings Page](https://material-kit-react.devias.io/settings)
-- [Login Page](https://dhiachini/auth/login)
+- [Login Page](https://dhiachini.github.io/auth/login)
 - [Register Page](https://material-kit-react.devias.io/auth/register)
 
 ## Free Figma Community File

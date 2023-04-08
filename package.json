@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "author": "Devias",
   "licence": "MIT",
-  "homepage": "https://login",
+  "homepage": "https://dhiachini.github.io/valorisi/index",
   "private": false,
   "scripts": {
     "dev": "next",
